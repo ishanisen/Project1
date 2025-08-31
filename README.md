@@ -32,13 +32,3 @@
 ## 🎯 Use Case  
 This project simulates a **simple student management system** that can be adapted to larger educational administration tools.  
 It highlights **object-oriented programming, data structures, and system design skills**.  
-
-## 🚀 Getting Started  
-
-### Prerequisites  
-- C++ Compiler (e.g., `g++` or MSVC)  
-- Command line / terminal access  
-
-### Compilation  
-```bash
-g++ main.cpp daleng.cpp scholar.cpp selffunded.cpp -o student_db
